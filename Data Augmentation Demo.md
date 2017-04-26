@@ -1,8 +1,3 @@
-# Data-Augmentation
-These functions will randomly distort image data to amplify total amount of images for use in machine learning algorithms.
-
-
-
 
 We will use this package to amplify ("augment") a single image.
 
@@ -117,3 +112,4 @@ plt.imshow(augmented_data[6])
 
 
 ![png](output_9_1.png)
+
