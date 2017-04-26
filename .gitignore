@@ -1,4 +1,5 @@
-"Data Augmentation Demo.ipynb"
-"Data Augmentation Demo.md"
+#gitignore
 .ipynb_checkpoints
-__pycache__
+\__pycache__
+Data Augmentation Demo.ipynb
+Data Augmentation Demo.md
